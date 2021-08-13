@@ -13,7 +13,7 @@
 
 <h3>專案執行方式:</h3>
 <p>語言:Python,Mysql</br>
-套件:Pandas,Matplotlib</br>
+套件:Pandas,Matplotlib,seaborn</br>
 工具:Jupyter Notebook,Mysql Workbench</br>
 模型:RFM,Unsupervised Learning(KMeans)</br>
 呈現方式:PowerPoint</p>
