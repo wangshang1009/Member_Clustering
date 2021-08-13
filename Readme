@@ -1,9 +1,6 @@
 # Member_Clustering
 專案目的:
-透過分析會員消費資料後了解其特性與輪廓後提供客製化的再行銷方案,同時將其結果推論到類似的會員提高其活躍度
-
-參與專案單位:
-行銷部及營運部
+提高整體會員活躍度與轉換率
 
 專案流程簡述:
 1.收集2021上半年消費資料
@@ -18,3 +15,7 @@
 工具:Jupyter Notebook,Mysql Workbench
 模型:RFM,Unsupervised Learning(KMeans)
 呈現方式:PowerPoint
+
+
+參與專案單位:
+行銷部及營運部
