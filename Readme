@@ -1,2 +1,20 @@
 # Member_Clustering
-test
+專案目的:
+透過分析會員消費資料後了解其特性與輪廓後提供客製化的行銷方案,同時將其結果推論到類似的會員提高其活躍度
+
+參與專案單位:
+行銷部及營運部
+
+專案流程簡述:
+1.收集2021上半年消費資料
+2.將每一筆消費資料轉換為R(Recency,最近一次消費),F(Frequency,消費頻率),M(Monetary,消費金額)三種指標
+3.透過非監督式學習中的分群演算法KMeans作分群
+4.針對每一群不同的會員進行客製化的再行銷方案
+5.將分群結果推論到另一群類似但尚未產生消費行為的會員
+
+專案執行方式:
+語言:Python,Mysql
+套件:Pandas,Matplotlib
+工具:Jupyter Notebook,Mysql Workbench
+模型:RFM,Unsupervised Learning(KMeans)
+呈現方式:PowerPoint
